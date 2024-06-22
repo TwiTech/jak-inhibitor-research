@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective Date:** [Date]
+**Effective Date:** 2024
 
 ## 1. Introduction
 
